@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Baking</string>
+    <string name="title_recipe_list">Baking</string>
+    <string name="internet_error">internet error ,no data</string>
+    <string name="ingredients">ingredients</string>
+    <string name="steps">steps</string>
+    <string name="title_step">Steps</string>
+    <string name="title_ingredient">Ingredient</string>
+    <string name="loading">loading...</string>
+    <string name="success">success</string>
+    <string name="no_vedio">no vedio tutorial</string>
+</resources>
